@@ -4,7 +4,6 @@
 /************************************************************
  *
  * Seller.h
- *
  * Date:      2/21/19
  * 
  * Contains the declaration for the Seller class.
