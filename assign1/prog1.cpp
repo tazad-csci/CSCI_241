@@ -1,8 +1,6 @@
 /**********************************************************************
  *
  * Program: CSCI 241 Assignment 1
- * Author:  Tamjid Azad
- * z-ID:    z1839612
  * Date:    2/11/19
  *
  * This program tests functions for manipulating C strings.
