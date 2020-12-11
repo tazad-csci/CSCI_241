@@ -23,7 +23,7 @@ using std::cout;
 using std::endl;
 
 int main()
-   {
+{
    cout << "Testing default constructor\n\n";
     
    Stack<int> s1;
@@ -157,4 +157,4 @@ int main()
    cout << "s7: " << s7 << endl;
 
    return 0;
-   }
+}
